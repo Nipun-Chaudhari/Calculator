@@ -1,0 +1,38 @@
+#zeroButton{
+    width: 185px;
+}
+
+button{
+    height: 90px;
+    width: 90px;
+    border-radius: 4px;
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: aquamarine;
+}
+
+input{
+    height: 95px;
+    width: 372px;
+    text-align: right;
+    font-size: 40px;
+    border: 4px solid black;
+    border-radius: 4px;
+}
+
+.calculator{
+    display: inline-block;
+    /* margin: auto; */
+}
+
+.calculator table{
+    margin: auto;
+    /* border: 2px solid black; */
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+}
